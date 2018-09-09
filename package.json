@@ -1,0 +1,20 @@
+{
+  "name": "cluster-fights-cli",
+  "version": "0.0.1",
+  "description": "A cli to interact with ClusterFights",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "kadajett",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "inquirer": "^6.2.0",
+    "nt": "^0.6.1",
+    "webtorrent": "^0.102.4"
+  }
+}
